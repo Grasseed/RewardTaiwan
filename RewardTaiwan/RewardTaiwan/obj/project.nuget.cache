@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxK0UB/vrDDUrOq4o70Ex7Ibh3RAx6/0vxPlxS+Wxe+uxXqaoqZmXdbKNp04FcVy/S/kaMDn6hxK5vlbLxSOVA==",
+  "success": true,
+  "projectFilePath": "/Users/huangguanfu/RewardTaiwan/RewardTaiwan/RewardTaiwan/RewardTaiwan.csproj",
+  "expectedPackageFiles": [
+    "/Users/huangguanfu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/huangguanfu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/huangguanfu/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/huangguanfu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/huangguanfu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/huangguanfu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
