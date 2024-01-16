@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/huangguanfu/RewardTaiwan/RewardTaiwan/RewardTaiwan/RewardTaiwan.csproj": {}
+    "C:\\Users\\frank\\OneDrive\\Git\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan.csproj": {}
   },
   "projects": {
-    "/Users/huangguanfu/RewardTaiwan/RewardTaiwan/RewardTaiwan/RewardTaiwan.csproj": {
+    "C:\\Users\\frank\\OneDrive\\Git\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/huangguanfu/RewardTaiwan/RewardTaiwan/RewardTaiwan/RewardTaiwan.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\OneDrive\\Git\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan.csproj",
         "projectName": "RewardTaiwan",
-        "projectPath": "/Users/huangguanfu/RewardTaiwan/RewardTaiwan/RewardTaiwan/RewardTaiwan.csproj",
-        "packagesPath": "/Users/huangguanfu/.nuget/packages/",
-        "outputPath": "/Users/huangguanfu/RewardTaiwan/RewardTaiwan/RewardTaiwan/obj/",
+        "projectPath": "C:\\Users\\frank\\OneDrive\\Git\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan.csproj",
+        "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frank\\OneDrive\\Git\\RewardTaiwan\\RewardTaiwan\\RewardTaiwan\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/huangguanfu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +44,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "Microsoft.VisualStudio.SlowCheetah": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.0.50, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -62,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

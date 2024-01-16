@@ -1,16 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RewardTaiwan", "RewardTaiwan\RewardTaiwan.csproj", "{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RewardTaiwan", "RewardTaiwan\RewardTaiwan.csproj", "{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Release|Any CPU.ActiveCfg = Dev|Any CPU
+		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{D7B67AD4-F939-43B4-AA5F-D3DC020A43AE}.Staging|Any CPU.Build.0 = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CD7C04-18A1-41ED-BAD2-18ECFEAA7671}
 	EndGlobalSection
 EndGlobal

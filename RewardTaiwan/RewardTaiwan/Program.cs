@@ -1,4 +1,12 @@
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using RewardTaiwan;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Autofac settings
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(builder => builder.RegisterModule(new AutofacModuleRegister()));
 
 // Add services to the container.
 
