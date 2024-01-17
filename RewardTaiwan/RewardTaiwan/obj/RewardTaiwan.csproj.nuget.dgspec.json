@@ -52,11 +52,19 @@
               "target": "Package",
               "version": "[2.1.28, )"
             },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.VisualStudio.SlowCheetah": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[4.0.50, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.2.8, )"
             },
             "NLog.Extensions.Logging": {
               "target": "Package",
