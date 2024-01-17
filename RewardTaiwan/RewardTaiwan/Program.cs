@@ -2,6 +2,8 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using NLog.Extensions.Logging;
 using RewardTaiwan;
+using RewardTaiwan.Services;
+using RewardTaiwan.Services.Interface;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +28,12 @@ builder.Services.AddLogging(logging =>
 	//使用 NLog 作為 logging provider
 	logging.AddNLog();
 });
+
+// Dapper services
+// Get SQL Connection String from appsettings.json 
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddScoped<IDapper>(s => new DapperService(connectionString));
+
 
 var app = builder.Build();
 

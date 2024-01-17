@@ -10,10 +10,12 @@ namespace RewardTaiwan.Controllers
 	{
 		private readonly ITest _test;
 		private readonly ILogger<TestController> _logger;
-		public TestController(ITest test, ILogger<TestController> logger)
+		private readonly IDapper _dapper;
+		public TestController(ITest test, ILogger<TestController> logger, IDapper dapper)
 		{
 			_test = test;
 			_logger = logger;
+			_dapper = dapper;
 		}
 
 		[HttpGet("GetName")]
