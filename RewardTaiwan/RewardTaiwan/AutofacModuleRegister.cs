@@ -1,4 +1,6 @@
 ﻿using Autofac;
+using RewardTaiwan.Services.Interface;
+using RewardTaiwan.Services;
 
 namespace RewardTaiwan
 {
@@ -12,6 +14,13 @@ namespace RewardTaiwan
 			builder.RegisterAssemblyTypes(typeof(Program).Assembly)
 				.Where(t => t.Name.EndsWith("Service"))
 				.AsImplementedInterfaces();
+			// 註冊 DapperService 並提供 connectionString
+			builder.Register(c =>
+			{
+				var configuration = c.Resolve<IConfiguration>();
+				var connectionString = configuration.GetConnectionString("DefaultConnection");
+				return new DapperService(connectionString);
+			}).As<IDapper>().InstancePerLifetimeScope();
 		}
 	}
 }
