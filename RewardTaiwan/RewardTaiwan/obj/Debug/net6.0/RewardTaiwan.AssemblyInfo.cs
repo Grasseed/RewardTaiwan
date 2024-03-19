@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RewardTaiwan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cb198c583df99c56ee18d17bf5901dbc25d66c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e92bdffbb65ceffcccfd31a549f43dae21a5912b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RewardTaiwan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RewardTaiwan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
