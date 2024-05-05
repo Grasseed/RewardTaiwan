@@ -2,6 +2,7 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using NLog.Extensions.Logging;
 using RewardTaiwan;
+using RewardTaiwan.Extensions;
 using RewardTaiwan.Services;
 using RewardTaiwan.Services.Interface;
 using System.Reflection;
@@ -84,6 +85,9 @@ builder.Services.AddSession(options =>
 	options.Cookie.IsEssential = true;
 });
 
+// 註冊所有Config設定
+builder.Services.ConfigSetting(builder.Configuration);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -103,5 +107,8 @@ app.UseAuthorization();
 app.UseSession();
 
 app.MapControllers();
+
+// 檢查站台是否正常運作
+app.MapGet("/", () => "RewardTaiwan is running.");
 
 app.Run();
