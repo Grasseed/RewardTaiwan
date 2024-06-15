@@ -16,6 +16,10 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Remove="Controllers\FinancialController.cs~RF5267fe3.TMP" />
+    </ItemGroup>
+
+    <ItemGroup>
       <None Include="appsettings.Debug.json">
         <IsTransformFile>true</IsTransformFile>
         <DependentUpon>appsettings.json</DependentUpon>
@@ -48,12 +52,17 @@
         <PackageReference Include="NLog" Version="5.2.8" />
         <PackageReference Include="NLog.Extensions.Logging" Version="5.3.8" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+        <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     </ItemGroup>
 
     <ItemGroup>
       <Content Update="appsettings.json">
         <TransformOnBuild>true</TransformOnBuild>
       </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Parameters\" />
     </ItemGroup>
 
 </Project>

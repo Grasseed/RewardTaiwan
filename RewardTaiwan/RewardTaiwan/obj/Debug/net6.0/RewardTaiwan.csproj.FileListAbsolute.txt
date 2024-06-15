@@ -1,0 +1,189 @@
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.config
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\appsettings.json
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.exe
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.deps.json
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.runtimeconfig.json
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.pdb
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.xml
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Autofac.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Dapper.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.Auth.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.Core.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Web.Http.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.CodeDom.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Management.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.csproj.AssemblyReference.cache
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.GeneratedMSBuildEditorConfig.editorconfig
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.AssemblyInfoInputs.cache
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.AssemblyInfo.cs
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.csproj.CoreCompileInputs.cache
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.MvcApplicationPartsAssemblyInfo.cs
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.MvcApplicationPartsAssemblyInfo.cache
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.build.json
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.development.json
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.RewardTaiwan.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.build.RewardTaiwan.props
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RewardTaiwan.props
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RewardTaiwan.props
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.pack.json
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\scopedcss\bundle\RewardTaiwan.styles.css
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTa.188BF1EA.Up2Date
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\refint\RewardTaiwan.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.xml
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.pdb
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.genruntimeconfig.cache
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\ref\RewardTaiwan.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.config
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\appsettings.json
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.exe
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.deps.json
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.runtimeconfig.json
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.pdb
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.xml
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Autofac.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Dapper.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.Auth.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.Core.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Web.Http.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.CodeDom.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Management.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.csproj.AssemblyReference.cache
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.GeneratedMSBuildEditorConfig.editorconfig
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.AssemblyInfoInputs.cache
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.AssemblyInfo.cs
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.csproj.CoreCompileInputs.cache
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.MvcApplicationPartsAssemblyInfo.cs
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.MvcApplicationPartsAssemblyInfo.cache
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.build.json
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.development.json
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.RewardTaiwan.Microsoft.AspNetCore.StaticWebAssets.props
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.build.RewardTaiwan.props
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RewardTaiwan.props
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RewardTaiwan.props
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.pack.json
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\scopedcss\bundle\RewardTaiwan.styles.css
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTa.188BF1EA.Up2Date
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\refint\RewardTaiwan.dll
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.xml
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.pdb
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.genruntimeconfig.cache
+E:\side project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\ref\RewardTaiwan.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.config
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\appsettings.json
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.exe
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.deps.json
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.runtimeconfig.json
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.pdb
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\RewardTaiwan.xml
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Autofac.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Dapper.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.Auth.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Google.Apis.Core.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Web.Http.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.CodeDom.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\System.Management.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.csproj.AssemblyReference.cache
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.GeneratedMSBuildEditorConfig.editorconfig
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.AssemblyInfoInputs.cache
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.AssemblyInfo.cs
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.csproj.CoreCompileInputs.cache
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.MvcApplicationPartsAssemblyInfo.cs
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.MvcApplicationPartsAssemblyInfo.cache
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.build.json
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.development.json
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.RewardTaiwan.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.build.RewardTaiwan.props
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RewardTaiwan.props
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RewardTaiwan.props
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\scopedcss\bundle\RewardTaiwan.styles.css
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTa.188BF1EA.Up2Date
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\refint\RewardTaiwan.dll
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.xml
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.pdb
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\RewardTaiwan.genruntimeconfig.cache
+F:\Side Project\RewardTaiwan\RewardTaiwan-feature-basic-setup\RewardTaiwan\RewardTaiwan\obj\Debug\net6.0\ref\RewardTaiwan.dll
