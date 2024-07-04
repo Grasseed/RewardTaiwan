@@ -2,7 +2,9 @@
 {
 	public interface IDapper
 	{
-		T QuerySingle<T>(string sql, object param = null);
+        Task<IEnumerable<FinancialInfo>> GetAllBankNamesAsync();
+		Task<IEnumerable<FinancialInfo>> GetAllCreditCardsWithBanksAsync();
+        Task<IEnumerable<T>> QueryAsync<T>(string sql, object param = null);
 		IEnumerable<T> Query<T>(string sql, object param = null);
 		int Execute(string sql, object param = null);
 	}

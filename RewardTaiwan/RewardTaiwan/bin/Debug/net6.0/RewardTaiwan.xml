@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RewardTaiwan</name>
+    </assembly>
+    <members>
+        <member name="M:RewardTaiwan.Controllers.UserController.IsLoggin">
+            <summary>
+            檢查是否登入
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RewardTaiwan.Controllers.UserController.Login">
+            <summary>
+            登入
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RewardTaiwan.Controllers.UserController.Logout">
+            <summary>
+            登出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RewardTaiwan.Controllers.UserController.GoogleLogin(System.String)">
+            <summary>
+            Google登入
+            </summary>
+            <param name="idToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RewardTaiwan.Controllers.UserController.ValidGoogleLogin">
+            <summary>
+            驗證 Google 登入授權
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RewardTaiwan.Controllers.UserController.VerifyGoogleToken(System.String,System.String,System.String)">
+            <summary>
+            驗證 Google Token
+            </summary>
+            <param name="formCredential"></param>
+            <param name="formToken"></param>
+            <param name="cookiesToken"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:RewardTaiwan.Controllers.UserController.AddParamsToUrl(System.String,System.Collections.Generic.List{RewardTaiwan.Models.Parameter})" -->
+    </members>
+</doc>
