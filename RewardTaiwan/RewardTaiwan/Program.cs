@@ -110,6 +110,8 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseStaticFiles(); // 這允許你的應用服務靜態文件
+
 // Enable CORS with the defined policy
 app.UseCors("AllowSpecificOrigin");
 

@@ -51,9 +51,13 @@ namespace RewardTaiwan.Services
         // 獲取所有信用卡以及對應的銀行名稱
         public async Task<IEnumerable<FinancialInfo>> GetAllCreditCardsWithBanksAsync()
         {
-            string query = @"SELECT cc.credit_card_name AS CreditCardName, b.bank_name_zh_tw AS BankNameZh 
-                     FROM CreditCards cc
-                     JOIN Bank b ON cc.bank_id = b.id";
+            string query = @"
+                SELECT cc.credit_card_name AS CreditCardName, 
+                       b.bank_name_zh_tw AS BankNameZh, 
+                       ct.type AS CreditCardType
+                FROM CreditCards cc
+                JOIN Bank b ON cc.bank_id = b.id
+                JOIN CreditCardType ct ON cc.credit_card_type_id = ct.id";
             return await QueryAsync<FinancialInfo>(query);
         }
 

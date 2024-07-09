@@ -9,6 +9,13 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Compile Remove="CreditCardTypeImage\**" />
+      <Content Remove="CreditCardTypeImage\**" />
+      <EmbeddedResource Remove="CreditCardTypeImage\**" />
+      <None Remove="CreditCardTypeImage\**" />
+    </ItemGroup>
+
+    <ItemGroup>
       <Content Remove="appsettings.Debug.json" />
       <Content Remove="appsettings.Dev.json" />
       <Content Remove="appsettings.Release.json" />
